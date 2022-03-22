@@ -1,2 +1,2 @@
 # c103
-my project
+project that shows scatter plots
